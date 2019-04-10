@@ -1,0 +1,5 @@
+[book]
+authors = ["rooat"]
+multilingual = false
+src = "src"
+title = "knowledge"
